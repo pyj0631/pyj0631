@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyj0631
+- 👋 Hi, I’m @Ian-so
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
